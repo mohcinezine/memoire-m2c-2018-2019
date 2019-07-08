@@ -4,7 +4,7 @@ Pour l'execution il est nécessaire d'avoir télécharger la base de données au
 source BD : http://www.fki.inf.unibe.ch/databases/iam-handwriting-database/download-the-iam-handwriting-database  
 Organisation du repo pour l'execution:   
    ---->data  
-        `---->words`  
-        `---->XML`  
+        `------>words`  
+        `------>XML`  
    ---->classifiction_image.ipynb  
 le développement ainsi que l'exectution ont été réaliser sous Jupyter notebook (anaconda3) 
